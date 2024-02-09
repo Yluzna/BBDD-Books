@@ -1,0 +1,1 @@
+Este proyecto consiste en el diseño de una base de datos para una eCommerce de libros, que será consumida mediante una API. La base de datos almacenará información sobre libros, autores, géneros y clientes, y proporcionará funcionalidades como la consulta de libros, la gestión de inventario y la administración de usuarios.
